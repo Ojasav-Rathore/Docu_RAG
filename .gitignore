@@ -1,0 +1,5 @@
+.env
+.venv
+
+knowledge_base
+faiss_index
